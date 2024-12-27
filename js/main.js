@@ -79,9 +79,9 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Megan Machado", "web page designer", "ui/ux designer"],
+      strings: ["Megan Machado"],
       typeSpeed: 125,
-      loop: true,
+      loop: false,
     });
   });
 
